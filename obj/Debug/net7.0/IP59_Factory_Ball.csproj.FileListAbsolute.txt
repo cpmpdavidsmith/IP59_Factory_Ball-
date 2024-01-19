@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/bin/Debug/net7.0/IP59_Factory_Ball
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/bin/Debug/net7.0/IP59_Factory_Ball.deps.json
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/bin/Debug/net7.0/IP59_Factory_Ball.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/bin/Debug/net7.0/IP59_Factory_Ball.dll
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/bin/Debug/net7.0/IP59_Factory_Ball.pdb
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.dll
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/refint/IP59_Factory_Ball.dll
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.pdb
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/IP59_Factory_Ball.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP59_Factory_Ball/IP59_Factory_Ball/obj/Debug/net7.0/ref/IP59_Factory_Ball.dll
